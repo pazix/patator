@@ -1,0 +1,1 @@
+Project has moved to [github](https://github.com/lanjelot/patator)
